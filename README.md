@@ -10,7 +10,7 @@
 - 🤝 I’m looking for help with **Working as a UX Designer**
 - 🌱 I’m currently learning **UX Design with Illustrator, Adobe XD, Figma, personas and accessibility.**
 - 💬 Ask me about **Frontend development, DApps, NFT marketplace & design.**
-- 📫 How to reach me **margotreize@live.fr**
+- 📫 How to reach me **marjorie.ngoupende@gmail.com**
 - 👨‍💻 Some projects... **https://linktr.ee/Marjorie3.0**
 - 📝 I regularly write articles on **https://medium.com/@marjorie.ngoupende**
 - 📄 Know about my experiences **https://cvdesignr.com/p/64cbb3ff83006**
@@ -27,6 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bulma.svg" alt="Bulma" width="40" height="40"/>
