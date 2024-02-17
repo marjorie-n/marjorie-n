@@ -3,7 +3,7 @@
 <h3 align="center">Passionate Blockchain and Design Developer ❣️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjorie-n&label=Profile%20views&color=0e75b6&style=flat" alt="marjorie-n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marjorie-n&theme=" alt="marjorie-n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🔭 I’m currently working on **UX Design & Blockchain**
 - 👯 I’m looking to collaborate on **Blockchain & UX Design Projects**
@@ -62,7 +62,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marjorie-n&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marjorie-n&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=marjorie-n&theme=default"/>
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
