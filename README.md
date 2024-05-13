@@ -1,23 +1,23 @@
-<h1 align="center">Bonjour👋, je suis Marjorie</h1>
+<h1 align="center">Hi👋,I'm Marjorie</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjorie-n&label=Profile%20views&color=0e75b6&style=flat" alt="marjorie-n" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🔭 Je travaille actuellement sur **UX Design & Blockchain**
-- 👯 Je cherche à collaborer sur des **Projets Blockchain & UX/UI Design**
-- 🤝 Je cherche de l'aide pour travailler comme **UX Designer et Développeuse dans le Web3**
-- 🌱 J'apprends actuellement **UX Design avec Google Career Certificate**
-- 💬 Demande moi à propos de **Développement Front-End, des DApps, des NFT marketplace & UX/UI design.**
-- 📫 Contacte-moi ici **marjorie.ngoupende@gmail.com**
-- 👨‍💻 Quelques projets... **https://linktr.ee/Marjorie3.0**
-- 📝 J'aime écrire des articles sur **https://medium.com/@marjorie.ngoupende**
-- ⚡ Mon état d'esprit se résume à **la bonne humeur et le cappuccino :)**
+- 🔭 I am currently working on **UX Design & Blockchain**
+- 👯 I am looking to collaborate on **Blockchain & UX/UI Design Projects**
+- 🤝 I am looking for help to work as **UX Designer and Developer in Web3**
+- 🌱 I am currently learning **UX Design with Google Career Certificate**
+- 💬 Ask me about **Front-End Development, DApps, NFT marketplace & UX/UI design.**
+- 📫 Contact me here **marjorie.ngoupende@gmail.com**
+- 👨‍💻 Some projects... **https://linktr.ee/Marjorie3.0**
+- 📝 I like to write articles on **https://medium.com/@marjorie.ngoupende**
+- ⚡ My state of mind comes down to **good mood and cappuccino :)**
 
-</div><h3 align="left">Connect-toi avec moi:</h3>
+</div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marjorie-ngoupende-ux-web3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marjorie-ngoupende-ux-web3/" height="30" width="40" /></a>
 
-<h3 align="left">Langages et outils:</h3>
+<h3 align="left">Languages ​​and tools:</h3>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
