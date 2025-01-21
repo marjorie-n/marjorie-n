@@ -4,9 +4,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🔭 I am currently working on **UX/UI Design**
-- 👯 I am looking to collaborate on **Web3 & UX/UI Design Projects**
+- 👯 I am looking to collaborate on **UX/UI Design Projects**
 - 🤝 I am looking for help to work as **UX Designer in Web3**
-- 💬 Ask me about **UX/UI design, Accessibility, Front-End Development, DApps & NFT marketplace.**
+- 💬 Ask me about **UX/UI design, Accessibility, Front-End Development, Web3.**
 - 📫 Contact me here **marjorie.ngoupende@gmail.com**
 - ⚡ My state of mind comes down to **good mood and cappuccino :)**
 
