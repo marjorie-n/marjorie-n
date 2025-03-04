@@ -2,14 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjorie-n&label=Profile%20views&color=0e75b6&style=flat" alt="marjorie-n" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-
-- 🔭 I am currently working on **UX/UI Design**
-- 👯 I am looking to collaborate on **UX/UI Design Projects**
-- 🤝 I am looking for help to work as **UX Designer in Web3**
-- 💬 Ask me about **UX/UI design, Accessibility, Front-End Development, Web3.**
-- 📫 Contact me here **marjorie.ngoupende@gmail.com**
-- ⚡ My state of mind comes down to **good mood and cappuccino :)**
-
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marjorie-ngoupende-ux-web3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marjorie-ngoupende-ux-web3/" height="30" width="40" /></a>
